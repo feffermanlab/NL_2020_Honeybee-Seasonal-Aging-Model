@@ -4,8 +4,8 @@ This repository contains the Matlab code associated with the manuscript, "The se
 
 
 List of code files and their dependencies:
-1. 'graphresults_matrixbeemodel_foragers.m' - depends on 'elasticityallseasons.m'
-2. 'graphresults_matrixbeemodel_nurses.m' - depends on 'elasticityallseasons_nurses.m'
+1. 'graphresults_matrixbeemodel_foragers_BMC.m' - depends on 'elasticityallseasons_foragers.m'
+2. 'graphresults_matrixbeemodel_nurses_BMC.m' - depends on 'elasticityallseasons_nurses.m'
 3. 'elasticityallseasons.m' - depends on 'eigenvalue_v3_NLalt.m'
 4. 'elasticityallseasons_nurses.m' - depends on 'eigenvalue_v3_NLalt_nurses.m'
 5. 'eigenvalue_v3_NLalt.m' - depends on 'eigenvalueHelper_NLedit.m', 'spring_setValues.m', 'summer_setValues.m', 'fall_setValues.m', 'winter_setValues.m'
