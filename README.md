@@ -17,3 +17,4 @@ List of code files and their dependencies:
 11. 'fall_setValues.m'
 12. 'winter_setValues.m'
 13. 'insertValues_v3_NLedit.m'
+14. 'broodsurvivalanalysis.m' - depends on 'eigenvalueHelper_NLedit.m', 'winter_setValues.m'
