@@ -1,7 +1,7 @@
 %% Run a sensitivity analysis to see how changing brood survival in winter affects results
 % Run the elasticity analysis for the "Winter" parameters, but with various
 % values for Sb (brood survival) to see if it affects conclusions
-figpath = 'D:/natal/D_Documents/Chapter 1 Honeybee aging elasticity analysis/Figures/';
+figpath = '/Figures/';
 sb_vals = [0.65,0.7,0.75,0.8,0.85,0.9,0.95,0.993];
 
 %% Winter conditions, forager and nurse senescence parameters
