@@ -1,11 +1,10 @@
 %% Run elasticity analysis for forager mortality parameters and graph results
-clear 
 
 %% Run sensitivity analyses
 % run('eigenvalueL_2.m');
 % run('eigenvalueA_2.m');
 % run('eigenvalueB_2.m');
-figpath = 'D:/natal/D_Documents/Chapter 1 Honeybee aging elasticity analysis/Figures/';
+figpath = '/Figures/';
 run('elasticityallseasons_foragers.m'); % find elasticity values for params a, b, and l for spring, summer, fall and winter
 
 
