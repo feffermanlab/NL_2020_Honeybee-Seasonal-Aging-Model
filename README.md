@@ -1,7 +1,6 @@
 # honeybee_seasonal_aging_model
 
-This repository contains the Matlab code associated with the manuscript, "The sensitivity of a honeybee colony to worker mortality depends on season and resource availability."
-
+This repository contains the Matlab code associated with the publication Lemanski, N.J., S. Bansal, and N.H. Fefferman. 2020. The sensitivity of a honeybee colony to worker mortality depends on season and resource availability. BMC Evolutionary Biology. 20(1):1-9.
 
 List of code files and their dependencies:
 1. 'graphresults_matrixbeemodel_foragers_BMC.m' - depends on 'elasticityallseasons_foragers.m'
